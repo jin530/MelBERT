@@ -74,15 +74,14 @@ You can also get the original datasets from the following links:
 - The argument `task_name` indicates the name of task where 'vua' for VUA datasets and 'trofi' for TroFi and MOH-X datasets. If `task_name` is 'trofi', K-fold is applied for both training and evaluation. 
 - The pretrained transformer model can be specified with the argument `bert_model`. The processing of tokenizer may be different for models, so be careful. The work is currently based on RoBERTa-base model.
 - The type of model can be specified with the argument `model_type` and the types are as follows.
-
-  ```
-  RoBERTa_BASE: BERT_BASE 
-  RoBERTa_SEQ: BERT_SEQ
-  MelBERT: MELBERT
-  MelBERT_MIP: MELBERT_MIP
-  MelBERT_SPV: MELBERT_SPV
-  ```
-
+  | models (_paper_)  | `model_type` |
+  |-----------------|--------------|
+  | RoBERTa_BASE    | BERT_BASE    |
+  | RoBERTa_SEQ     | BERT_SEQ     |
+  | MelBERT         | MELBERT      |
+  | MelBERT_MIP     | MELBERT_MIP  |
+  | MelBERT_SPV     | MELBERT_SPV  |
+  
 <!-- - RoBERTa_BASE: BLT_CLS 
 - RoBERTa_SEQ: SEQ_BASE
 - MelBERT: CLS_SPV_MIP

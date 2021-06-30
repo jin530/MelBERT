@@ -1,0 +1,65 @@
+index	label	sentence	pos	v_index
+0	1	The invaders spread their language all over the country.	VERB	2
+1	1	Sales were climbing after prices were lowered.	VERB	2
+2	1	The moon glared back at itself from the lake's surface.	VERB	2
+3	1	The cancer cells are attacking his liver.	VERB	4
+4	0	You have ruined my car by pouring sugar in the tank!	VERB	2
+5	1	The editors of the left- leaning paper attacked the new House Speaker.	VERB	7
+6	0	tack the notice on the board.	VERB	0
+7	0	European children learn the breast stroke; they often don't know how to crawl.	VERB	12
+8	0	Please guard my possessions while I'm away.	VERB	1
+9	0	the infection spread.	VERB	2
+10	0	Gun shots volleyed at the attackers.	VERB	2
+11	0	We exploded the nuclear bomb.	VERB	1
+12	1	We rotate the crops so as to maximize the use of the soil.	VERB	1
+13	1	He injected new life into the performance.	VERB	1
+14	0	Meteors showered down over half of Australia.	VERB	1
+15	1	The conversation gravitated towards politics.	VERB	2
+16	1	The beams scanned the night sky.	VERB	2
+17	1	poison someone's mind.	VERB	0
+18	1	Don't abuse the system.	VERB	1
+19	1	The chemical clouded the liquid to which it was added.	VERB	2
+20	0	this snake swims through the soil where it lives.	VERB	2
+21	0	She nags her husband all day long.	VERB	1
+22	1	Our business was hurt by the new competition.	VERB	3
+23	1	The fate of Bosnia lies in the hands of the West.	VERB	4
+24	1	This poses an interesting question.	VERB	1
+25	0	I inherited a castle from my French grandparents.	VERB	1
+26	1	stock prices are drifting higher.	VERB	3
+27	1	I attacked the problem as soon as I got out of bed.	VERB	1
+28	0	The wildfire scorched the forest and several homes.	VERB	2
+29	0	She locked her jewels in the safe.	VERB	1
+30	1	The cold pierced her bones.	VERB	2
+31	1	The champagne flowed at the wedding.	VERB	2
+32	1	A hot soup will revive me.	VERB	4
+33	1	Life in the camp drained him.	VERB	4
+34	0	This hotel can accommodate 250 guests.	VERB	3
+35	1	Interns have to rotate for a few months.	VERB	3
+36	1	Boys gravitate towards girls at that age.	VERB	1
+37	1	She was besieged by so many problems that she got discouraged.	VERB	2
+38	0	Sound is reflected well in this auditorium.	VERB	2
+39	0	The container leaked gasoline.	VERB	2
+40	1	Sales were climbing after prices were lowered.	VERB	2
+41	1	I salute your courage!	VERB	1
+42	0	The property vests in the trustees.	VERB	2
+43	0	They began to volley the tennis ball.	VERB	3
+44	0	Hitler attacked Poland on September 1, 1939 and started World War II.	VERB	1
+45	1	The professor plunged his students into the study of the Italian text.	VERB	2
+46	1	Islam is fermenting Africa.	VERB	2
+47	0	preserve the forest and the lakes.	VERB	0
+48	0	The muscles in her face convulsed.	VERB	5
+49	0	Our basement flooded during the heavy rains.	VERB	2
+50	1	sorrow had lined his face.	VERB	2
+51	1	Middle age dulled her appetite for travel.	VERB	2
+52	0	The bugs pinged the lamp shade.	VERB	2
+53	1	the meat was swimming in a fatty gravy.	VERB	3
+54	1	The new teacher tends to steamroller.	VERB	5
+55	1	I can't buy this story.	VERB	2
+56	1	The exercise class drains me of energy.	VERB	3
+57	1	His lack of interest in the project reflects badly on him.	VERB	7
+58	0	Goering often hunted wild boars in Poland.	VERB	2
+59	1	She interrupted her pregnancy.	VERB	1
+60	0	square the wood with a file.	VERB	0
+61	0	Her husband poisoned her drink in order to kill her.	VERB	2
+62	1	Suspense was building right from the beginning of the opera.	VERB	2
+63	0	She vested her vast fortune in her two sons.	VERB	1

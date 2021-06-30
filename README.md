@@ -32,7 +32,7 @@ We employ <b>MOH-X</b> and <b>TroFi</b> for testing only.
 <!-- Preprocessed Datasets -->
 
 You can get datasets from the link below. 
-`https://drive.google.com/file/d/1738aqFObjfcOg2O7knrELmUHulNhoqRz/view?usp=sharing` 
+[https://drive.google.com/file/d/1738aqFObjfcOg2O7knrELmUHulNhoqRz/view?usp=sharing](https://drive.google.com/file/d/1738aqFObjfcOg2O7knrELmUHulNhoqRz/view?usp=sharing)
 
 The datasets are tsv formatted files and the format is as follows.
 ```
@@ -44,15 +44,15 @@ a3m-fragment02 45	1	Design: Crossed lines over the toytown tram: City transport 
 
 You can also get the original datasets from the following links:
 <!-- VUA-18 and VUA-20 -->
-- VUA-18: `https://github.com/RuiMao1988/Sequential-Metaphor-Identification`
+- VUA-18: [https://github.com/RuiMao1988/Sequential-Metaphor-Identification](https://github.com/RuiMao1988/Sequential-Metaphor-Identification)
 
-- VUA-20: `https://github.com/YU-NLPLab/DeepMet`
+- VUA-20: [https://github.com/YU-NLPLab/DeepMet](https://github.com/YU-NLPLab/DeepMet)
 
 <!-- MOH-X -->
-- MOH-X: `https://github.com/RuiMao1988/Sequential-Metaphor-Identification`
+- MOH-X: [https://github.com/RuiMao1988/Sequential-Metaphor-Identification](https://github.com/RuiMao1988/Sequential-Metaphor-Identification)
 
 <!-- TroFi -->
-- TroFi: `https://github.com/RuiMao1988/Sequential-Metaphor-Identification`
+- TroFi: [https://github.com/RuiMao1988/Sequential-Metaphor-Identification](https://github.com/RuiMao1988/Sequential-Metaphor-Identification)
 
 
 <br>

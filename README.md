@@ -1,7 +1,7 @@
 # MelBERT
 This is the official code for the NAACL 2021 paper: [_MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories._](https://www.aclweb.org/anthology/2021.naacl-main.141/).
 
-<!-- The slides can be found [here](). -->
+The slides can be found [here](https://www.slideshare.net/SKLEE36/melbert-metaphor-detection-via-contextualized-late-interaction-using-metaphorical-identification-theories-naacl-2021).
 
 <!-- 
 Todo
@@ -62,6 +62,7 @@ You can also get the original datasets from the following links:
 - Run `main.py` to train and test models. <br>
 - Command line arguments are also acceptable with the same naming in configuration files.
 
+
 ## Running MelBERT
 
 1. Train MelBERT with the specfic huggingface transformer model:<br>
@@ -74,6 +75,7 @@ You can also get the original datasets from the following links:
 - The argument `task_name` indicates the name of task where 'vua' for VUA datasets and 'trofi' for TroFi and MOH-X datasets. If `task_name` is 'trofi', K-fold is applied for both training and evaluation. 
 - The pretrained transformer model can be specified with the argument `bert_model`. The processing of tokenizer may be different for models, so be careful. The work is currently based on RoBERTa-base model.
 - The type of model can be specified with the argument `model_type` and the types are as follows.
+
   | models (_paper_)  | `model_type` |
   |-----------------|--------------|
   | RoBERTa_BASE    | BERT_BASE    |

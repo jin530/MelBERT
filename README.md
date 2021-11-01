@@ -61,7 +61,7 @@ You can also get the original datasets from the following links:
 - Change the experimental settings in `main_config.cfg`. <br>
 - Run `main.py` to train and test models. <br>
 - Command line arguments are also acceptable with the same naming in configuration files.
-
+- You can simply download [the model checkpoint](https://drive.google.com/file/d/1gieLQ-aRP1PMBov6NifucUvmLRBsdjy6/view?usp=sharing) trained on VUA-18 dataset from the link. 
 
 ## Running MelBERT
 

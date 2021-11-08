@@ -130,7 +130,7 @@ def main():
             with open(os.path.join(args.data_dir, f"seed{args.seed}_preds_{fold}.p"), "wb") as f:
                 pickle.dump(preds, f)
 
-            # If train data is VUA20, the model needs to be tested on VUAverb, MOH-X, TroFi as well.
+            # If train data is VUA20, the model needs to be tested on VUAverb as well.
             # You can just adjust the names of data_dir in conditions below for your own data directories.
             if "VUA20" in args.data_dir:
                 # Verb

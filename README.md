@@ -31,8 +31,7 @@ We employ <b>MOH-X</b> and <b>TroFi</b> for testing only.
 <br><br>
 <!-- Preprocessed Datasets -->
 
-You can get datasets from the link below. 
-[https://drive.google.com/file/d/1738aqFObjfcOg2O7knrELmUHulNhoqRz/view?usp=sharing](https://drive.google.com/file/d/1738aqFObjfcOg2O7knrELmUHulNhoqRz/view?usp=sharing)
+You can get datasets from the following [link](https://drive.google.com/file/d/18hemekvUuOw-qkQhWv4F6qFnis6lkaog/view?usp=sharing).
 
 The datasets are tsv formatted files and the format is as follows.
 ```
@@ -61,7 +60,7 @@ You can also get the original datasets from the following links:
 - Change the experimental settings in `main_config.cfg`. <br>
 - Run `main.py` to train and test models. <br>
 - Command line arguments are also acceptable with the same naming in configuration files.
-- You can simply download [the model checkpoint](https://drive.google.com/file/d/1gieLQ-aRP1PMBov6NifucUvmLRBsdjy6/view?usp=sharing) trained on VUA-18 dataset from the link. 
+- You can simply download [the model checkpoint](https://drive.google.com/file/d/1RKyP-_kje6xWlNuXeoSIHZnYxUyXnupZ/view?usp=sharing) trained on VUA-18 dataset from the link. 
 
 ## Running MelBERT
 
